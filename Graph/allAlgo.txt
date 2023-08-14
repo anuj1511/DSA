@@ -1,0 +1,38 @@
+bfs ✅
+dfs ✅
+
+no of components 
+-> bfs ✅
+-> dfs ✅
+
+cycle undir
+ ->bfs ✅
+ ->dfs ✅
+
+Bipartite
+ ->bfs ✅
+ ->dfs ✅
+
+cycle dir
+ ->bfs ✅
+ ->dfs ✅
+
+toposort
+ ->bfs ✅
+ ->dfs ✅
+
+distance 
+ -> dijkstra ✅
+ -> floyd warshall ✅
+ -> bellmanFord ✅
+
+mst
+ -> prims✅
+	DSU✅
+ -> kruskal✅
+
+Kosaraju
+
+Bridges
+
+Articulation
