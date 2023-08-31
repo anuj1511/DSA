@@ -1,0 +1,5 @@
+sdf# Ignore all .exe files
+*.exe
+
+# Ignore folders named .cph
+.cph/
